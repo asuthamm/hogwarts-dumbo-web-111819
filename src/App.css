@@ -134,7 +134,15 @@ ul {
 }
 
 
-@keyframes App-logo-spin {
+/* @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+} */
+
+.display-none {
+  display: none;
+}
+
+.display-details {
+  display: block;
 }
